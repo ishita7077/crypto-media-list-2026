@@ -1,0 +1,434 @@
+[
+ {
+   "Name": "Casey Wagner",
+   "Publication": "Blockworks",
+   "Email": "casey@blockworks.co",
+   "Reason": "Investigative reporter — governance failure is an accountability story"
+ },
+ {
+   "Name": "Ben Strack",
+   "Publication": "Blockworks",
+   "Email": "ben@blockworks.co",
+   "Reason": "Pure macro/TradFi — no governance or ecosystem angle"
+ },
+ {
+   "Name": "Marc Arjoon",
+   "Publication": "Blockworks",
+   "Email": "marc@blockworks.co",
+   "Reason": "L1/DeFi coverage — Polkadot is L1 infrastructure"
+ },
+ {
+   "Name": "Jeff Albus",
+   "Publication": "Blockworks",
+   "Email": "jeffrey@blockworks.co",
+   "Reason": "Business coverage — Polkassembly is a business shutting down"
+ },
+ {
+   "Name": "Hannah Finnerty",
+   "Publication": "Blockworks",
+   "Email": "hannah@blockworks.co",
+   "Reason": "Operations role — not editorial"
+ },
+ {
+   "Name": "Jack Kubinec",
+   "Publication": "Blockworks",
+   "Email": "jackkubinec@proton.me",
+   "Reason": "Investigative + L1 thesis coverage — strong fit"
+ },
+ {
+   "Name": "Donovan Choy",
+   "Publication": "Blockworks",
+   "Email": "donovan@blockworks.co",
+   "Reason": "Highest-fit Blockworks reporter — literally covers L1 governance failures"
+ },
+ {
+   "Name": "Byron Gilliam",
+   "Publication": "Blockworks",
+   "Email": "byron@blockworks.co",
+   "Reason": "Daily newsletter with wide reach — could feature as a segment"
+ },
+ {
+   "Name": "Michael McSweeney",
+   "Publication": "Blockworks",
+   "Email": "michael.mcsweeney@blockworks.co",
+   "Reason": "Senior editor who routes stories — CC alongside Donovan pitch"
+ },
+ {
+   "Name": "Yogita Khatri",
+   "Publication": "The Block",
+   "Email": "ykhatri@theblock.co",
+   "Reason": "The Block's most prolific reporter — wide reach"
+ },
+ {
+   "Name": "Timmy Shen",
+   "Publication": "The Block",
+   "Email": "tshen@theblock.co",
+   "Reason": "Asia-focused — geographic mismatch for this story"
+ },
+ {
+   "Name": "Kyle Baird",
+   "Publication": "The Block",
+   "Email": "kbaird@theblock.co",
+   "Reason": "Editor who assigns stories — CC on Block pitches"
+ },
+ {
+   "Name": "Daniel Kuhn",
+   "Publication": "The Block",
+   "Email": "dkuhn@theblock.co",
+   "Reason": "Edits governance coverage — CC on Sarah Wynn pitch"
+ },
+ {
+   "Name": "Eric Johansson",
+   "Publication": "DL News",
+   "Email": "eric@dlnews.com",
+   "Reason": "Managing editor — CC alongside Ekin Genç pitch"
+ },
+ {
+   "Name": "Mathew Di Salvo",
+   "Publication": "DL News",
+   "Email": "mdisalvo@dlnews.com",
+   "Reason": "General news reporter — could pick up shutdown as news story"
+ },
+ {
+   "Name": "Pedro Solimano",
+   "Publication": "DL News",
+   "Email": "psolimano@dlnews.com",
+   "Reason": "Markets/price beat"
+ },
+ {
+   "Name": "Ryan S. Gladwin",
+   "Publication": "Decrypt",
+   "Email": "ryan@decrypt.co",
+   "Reason": "General staff writer — wide net"
+ },
+ {
+   "Name": "Andrew Hayward",
+   "Publication": "Decrypt",
+   "Email": "andrew@decrypt.co",
+   "Reason": "Managing editor — routes stories, CC on Decrypt pitches"
+ },
+ {
+   "Name": "Logan Hitchcock",
+   "Publication": "Decrypt",
+   "Email": "logan@decrypt.co",
+   "Reason": "Gaming-specific editor"
+ },
+ {
+   "Name": "Jose Antonio Lanz",
+   "Publication": "Decrypt",
+   "Email": "jose@decrypt.co",
+   "Reason": "Translation role — not primary English reporter"
+ },
+ {
+   "Name": "Sander Lutz",
+   "Publication": "Decrypt",
+   "Email": "sander@decrypt.co",
+   "Reason": "Policy coverage — governance failure has policy implications"
+ },
+ {
+   "Name": "Jason Nelson",
+   "Publication": "Decrypt",
+   "Email": "jason@decrypt.co",
+   "Reason": "DAO communities + DeFi accountability — direct beat match"
+ },
+ {
+   "Name": "Liam 'Akiba' Wright",
+   "Publication": "CryptoSlate",
+   "Email": "liam.w@cryptoslate.com",
+   "Reason": "EIC of mid-tier outlet — worth including in wide funnel"
+ },
+ {
+   "Name": "Gino Matos",
+   "Publication": "Crypto Briefing",
+   "Email": "Gino@cryptoslate.com",
+   "Reason": "Editor"
+ },
+ {
+   "Name": "May Woods",
+   "Publication": "BeInCrypto",
+   "Email": "editorinchief@beincrypto.com",
+   "Reason": "Newsletter — could feature as segment"
+ },
+ {
+   "Name": "Lockridge Okoth",
+   "Publication": "BeInCrypto",
+   "Email": "lockridge.okoth@beincrypto.com",
+   "Reason": "General author — wide net"
+ },
+ {
+   "Name": "Shilpa Lama",
+   "Publication": "BeInCrypto",
+   "Email": "shilpa.lama@beincrypto.com",
+   "Reason": "Business/editorial contact"
+ },
+ {
+   "Name": "Samuel Msiska",
+   "Publication": "crypto.news",
+   "Email": "samuel@crypto.news",
+   "Reason": "Editor — routes stories"
+ },
+ {
+   "Name": "Camila Russo",
+   "Publication": "The Defiant",
+   "Email": "camila@thedefiant.io",
+   "Reason": "Founder of DeFi newsroom with prior Polkadot treasury coverage — strong fit"
+ },
+ {
+   "Name": "Olivia Capozzalo",
+   "Publication": "The Defiant",
+   "Email": "olivia@thedefiant.io",
+   "Reason": "Senior editor — CC alongside Camila"
+ },
+ {
+   "Name": "Nikhilesh De",
+   "Publication": "CoinDesk",
+   "Email": "Nikhilesh.De@coindesk.com",
+   "Reason": "Policy/regulation — governance infrastructure collapse has regulatory implications"
+ },
+ {
+   "Name": "Helene Braun",
+   "Publication": "CoinDesk",
+   "Email": "Helene.Braun@coindesk.com",
+   "Reason": "Markets — DOT price collapse is a markets story too"
+ },
+ {
+   "Name": "Margaux Nijkerk",
+   "Publication": "CoinDesk",
+   "Email": "Margaux.Nijkerk@coindesk.com",
+   "Reason": "DeFi/governance — direct beat match"
+ },
+ {
+   "Name": "Jesse Hamilton",
+   "Publication": "CoinDesk",
+   "Email": "Jesse.Hamilton@coindesk.com",
+   "Reason": "Policy — governance infrastructure angle"
+ },
+ {
+   "Name": "Ian Allison",
+   "Publication": "CoinDesk",
+   "Email": "Ian.Allison@coindesk.com",
+   "Reason": "Investigative/institutional — broke FTX story, accountability instinct"
+ },
+ {
+   "Name": "Benjamin Schiller",
+   "Publication": "CoinDesk",
+   "Email": "Benjamin.Schiller@coindesk.com",
+   "Reason": "Features editor — Jas's piece could run as CoinDesk feature/op-ed"
+ },
+ {
+   "Name": "Stephen Alpher",
+   "Publication": "CoinDesk",
+   "Email": "Stephen.Alpher@coindesk.com",
+   "Reason": "Senior editor — routes market stories"
+ },
+ {
+   "Name": "Francisco Rodrigues",
+   "Publication": "CoinDesk",
+   "Email": "Francisco.Rodrigues@coindesk.com",
+   "Reason": "General reporter — wide net"
+ },
+ {
+   "Name": "Omkar Godbole",
+   "Publication": "CoinDesk",
+   "Email": "Omkar.Godbole@coindesk.com",
+   "Reason": "Senior markets editor — DOT price angle"
+ },
+ {
+   "Name": "Will Canny",
+   "Publication": "CoinDesk",
+   "Email": "Will.Canny@coindesk.com",
+   "Reason": "Finance/crypto — business shutdown angle"
+ },
+ {
+   "Name": "Sam Reynolds",
+   "Publication": "CoinDesk",
+   "Email": "Sam.Reynolds@coindesk.com",
+   "Reason": "Asia-focused — geographic mismatch"
+ },
+ {
+   "Name": "Shaurya Malwa",
+   "Publication": "CoinDesk",
+   "Email": "Shaurya.Malwa@coindesk.com",
+   "Reason": "Asia markets — geographic mismatch"
+ },
+ {
+   "Name": "Jamie Crawley",
+   "Publication": "CoinDesk",
+   "Email": "Jamie.Crawley@coindesk.com",
+   "Reason": "Breaking news — shutdown is breaking"
+ },
+ {
+   "Name": "Olivier Acuna",
+   "Publication": "CoinDesk",
+   "Email": "Olivier.Acuna@coindesk.com",
+   "Reason": "Breaking news — wide net"
+ },
+ {
+   "Name": "Hannah Lang",
+   "Publication": "Reuters",
+   "Email": "hannah.lang@thomsonreuters.com",
+   "Reason": "Reuters crypto correspondent — highest-reach mainstream target"
+ },
+ {
+   "Name": "David Yaffe-Bellany",
+   "Publication": "New York Times",
+   "Email": "davidyb@nytimes.com",
+   "Reason": "NYT crypto reporter — FTX accountability coverage. Highest-prestige target"
+ },
+ {
+   "Name": "Tim Craig",
+   "Publication": "DL News",
+   "Email": "tim@dlnews.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Liam J. Kelly",
+   "Publication": "DL News",
+   "Email": "liam@dlnews.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Jesse Coghlan",
+   "Publication": "Cointelegraph",
+   "Email": "jesse.coghlan@cointelegraph.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Vishal Chawla",
+   "Publication": "The Block",
+   "Email": "vchawla@theblock.co",
+   "Reason": ""
+ },
+ {
+   "Name": "Bennett Tomlin",
+   "Publication": "Protos",
+   "Email": "editorial@protos.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Osato Avan-Nomayo",
+   "Publication": "DL News",
+   "Email": "osato@dlnews.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Ezra Reguerra",
+   "Publication": "Cointelegraph",
+   "Email": "ezra.reguerra@cointelegraph.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Stephen Graves",
+   "Publication": "Decrypt",
+   "Email": "stephen@decrypt.co",
+   "Reason": ""
+ },
+ {
+   "Name": "Guillermo Jimenez",
+   "Publication": "Decrypt (EIC)",
+   "Email": "tips@decrypt.co",
+   "Reason": ""
+ },
+ {
+   "Name": "André Beganski",
+   "Publication": "Decrypt",
+   "Email": "tips@decrypt.co",
+   "Reason": ""
+ },
+ {
+   "Name": "Sarah Wynn",
+   "Publication": "The Block",
+   "Email": "swynn@theblock.co",
+   "Reason": ""
+ },
+ {
+   "Name": "James Hunt",
+   "Publication": "The Block (Dep. ME)",
+   "Email": "jhunt@theblock.co",
+   "Reason": ""
+ },
+ {
+   "Name": "Brian Danga",
+   "Publication": "The Block",
+   "Email": "bdanga@theblock.co",
+   "Reason": ""
+ },
+ {
+   "Name": "Nikou Asgari",
+   "Publication": "Financial Times",
+   "Email": "nikou.asgari@ft.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Joel Khalili",
+   "Publication": "Wired",
+   "Email": "joel_khalili@wired.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Nina Bambysheva",
+   "Publication": "Forbes",
+   "Email": "nbambysheva@forbes.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Jeff Kauflin",
+   "Publication": "Forbes",
+   "Email": "jkauflin@forbes.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Yueqi Yang",
+   "Publication": "The Information",
+   "Email": "yueqi@theinformation.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Olga Kharif",
+   "Publication": "Bloomberg",
+   "Email": "okharif@bloomberg.net",
+   "Reason": ""
+ },
+ {
+   "Name": "Emily Nicolle",
+   "Publication": "Bloomberg",
+   "Email": "enicolle@bloomberg.net",
+   "Reason": ""
+ },
+ {
+   "Name": "Sam Kessler",
+   "Publication": "Wall Street Journal",
+   "Email": "sam.kessler@wsj.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Anand Sinha",
+   "Publication": "TheStreet Crypto",
+   "Email": "anand@roundtable.io",
+   "Reason": ""
+ },
+ {
+   "Name": "Guest Columns",
+   "Publication": "CoinDesk",
+   "Email": "guestcolumns@coindesk.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Tips",
+   "Publication": "CoinDesk",
+   "Email": "tips@coindesk.com",
+   "Reason": ""
+ },
+ {
+   "Name": "Tips",
+   "Publication": "The Block",
+   "Email": "tips@theblock.co",
+   "Reason": ""
+ },
+ {
+   "Name": "Editor",
+   "Publication": "Decrypt",
+   "Email": "editor@decrypt.co",
+   "Reason": ""
+ }
+]
